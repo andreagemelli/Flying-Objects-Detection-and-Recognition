@@ -8,6 +8,15 @@ if __name__ == '__main__':
 
     # DATA LOAD
 
+    if not os.isdir("data"):
+        os.mkdir("data")
+
+    if not os.isdir("video_test"):
+        os.mkdir("video_test")
+
+    if not os.isdir("weights"):
+        os.mkdir("weights")
+
     X_train_orig, Y_train_orig, X_val_orig, Y_val_orig, X_test_orig, Y_test_orig = load_dataset(src_path='data')
     num_classes = 1
 
