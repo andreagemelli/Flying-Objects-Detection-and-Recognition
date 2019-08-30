@@ -20,4 +20,4 @@ To use the network, divide the video you want to test into jpg frames and load t
 Then launch sliding_window.py (change weights accordingly for predictions if needed). You 
 can download our weights from [here](https://drive.google.com/open?id=1DA5a4oi9HadxAI8UEwWn1mCA0NU1oVnp)
 
-![](videotestok.PNG ) 
+<center> <img src="videotestok.PNG" alt=""> </center>
