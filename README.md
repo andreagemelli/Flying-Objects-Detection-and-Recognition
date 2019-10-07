@@ -1,7 +1,7 @@
 # Flying-Objects-Detection-and-Recognition
 
 ### Abstract
-In our [paper](https://drive.google.com/open?id=1Tbdc_g28OLYOTbSINTVlsNs65cu4GPRd) we propose some techniques to detect
+In our [paper](https://drive.google.com/file/d/1Uvw1y5_0kJhcN2HuGcNBxO5zeKJACSOX/view?usp=sharing) we propose some techniques to detect
 Unmanned Aerial Vehicles (UAVs), aka drones, in a
 real life scenario, such as airports. Using the dataset
 of Artem Rozantsev (a collection of drones and no-
